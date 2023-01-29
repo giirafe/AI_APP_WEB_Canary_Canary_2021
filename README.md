@@ -4,7 +4,12 @@
 <img src="https://github.com/osamhack2021/AI_APP_WEB_Canary_Canary/blob/main/image/canary_2.0.png" alter="LOGO"/><br>
  <img src='https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge&logo'>
  <a href='https://github.com/osamhack2021/AI_APP_WEB_Canary_Canary/blob/main/LICENSE'><img src='https://img.shields.io/badge/License-GNU GPL v3.0-blue?style=for-the-badge&logo'></a>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=CEl0E3Al_IY"><img src="https://img.youtube.com/vi/CEl0E3Al_IY/0.jpg" alt="유투브 영상"></a>
+</div>
+
 </p>
+## 위 사진을 클릭하시면 유투브를 통해 시연영상을 확인하실 수 있습니다.
 
 Canary는 머신러닝을 활용하여 사진 안의 보안 위반 가능성이 있는 요소를 식별하고, 자동 모자이크 처리를 하고, 이를 사용자에게 경고해주는 통합 보안 경보 시스템입니다. 
 Canary App, Canary in Instagram, Admin logweb으로 구성되어 있으며, 앱에서 처리된 사진에는 QR코드가 들어가 처리 여부를 쉽게 식별할 수 있습니다.
